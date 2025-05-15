@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../qanda"
+		},
+		{
+			"path": "../../resct-dashboard"
+		},
+		{
+			"path": "../../pdfhover"
+		},
+		{
+			"path": "../../angular"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../typescript"
+		},
+		{
+			"path": "../../typescript-demo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pdfhover"
+	}
+}
